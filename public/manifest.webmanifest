@@ -1,0 +1,10 @@
+{
+    "theme_color": "#5cc4b4",
+    "background_color": "#314150",
+    "display": "fullscreen",
+    "orientation": "portrait",
+    "scope": "/",
+    "start_url": "/",
+    "name": "Dice Games Kit",
+    "short_name": "Dice Games"
+}
