@@ -5,6 +5,6 @@
 Made with Vue JS & Vite
 
 @todo :
-	- Add description & rules on home-page
-	- Add more games !
+- Add description & rules on home-page
+- Add more games !
 
