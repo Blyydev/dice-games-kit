@@ -4,6 +4,8 @@
 
 Made with Vue JS & Vite
 
+• https://blyydev.github.io/dice-games-kit/dist/
+
 @todo :
 - Add description & rules on home-page
 - Add more games !
