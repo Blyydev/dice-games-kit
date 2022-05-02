@@ -28,7 +28,7 @@ const routes = [
 ]
 
 // https://router.vuejs.org/guide/essentials/dynamic-matching.html#reacting-to-params-changes
-const history = createWebHistory()
+const history = createWebHistory('/dice-games-kit/dist/')
 const router = createRouter({ history, routes });
 
 export default router;
